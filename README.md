@@ -1,0 +1,2 @@
+# NextMail
+Laravel MJML editor

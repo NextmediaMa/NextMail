@@ -1,5 +1,5 @@
 # NextMail
-Laravel MJML editor
+Laravel MJML blade editor
 
 # TODO
 
